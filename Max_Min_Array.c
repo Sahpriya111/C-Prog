@@ -51,3 +51,8 @@ int main()
 
 	return 0; 
 } 
+
+
+//Output : 
+//The minimum element is -1
+//The maximum element is 4
