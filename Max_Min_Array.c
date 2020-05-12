@@ -1,4 +1,4 @@
-// C program for the above approach 
+// C program to find the maximum and minimum element of the array
 #include <limits.h> 
 #include <stdio.h> 
 
